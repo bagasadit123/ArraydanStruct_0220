@@ -23,4 +23,6 @@ int main() {
     cout << "Data index 4 = ";
     cin >> kamu[4];
     cout << endl;
+         // Menampilkan Satu per Satu
+          cout << "Data Pertama = " << kamu[0] << endl;
 }
